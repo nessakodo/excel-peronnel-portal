@@ -1,7 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## - This is a preliminary outline of the project that can be found here: 
+
+
+#
 
 Things you may want to cover:
 
